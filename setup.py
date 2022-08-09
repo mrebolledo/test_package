@@ -12,9 +12,9 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mrebolledo/helpers',
+    url='https://github.com/mrebolledo/test_package',
     project_urls={
-        "Bug Tracker": "https://github.com/mrebolledo/helpers/issues"
+        "Bug Tracker": "https://github.com/mrebolledo/test_package/issues"
     },
     license='MIT',
     packages=['test_package'],
